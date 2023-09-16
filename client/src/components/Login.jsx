@@ -1,6 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import { baseUrl } from "../config";
 
 export default function Login() {
   const [inputs, setInputs] = useState({ correo: "", contraseña: "" });
@@ -21,10 +22,9 @@ export default function Login() {
         correo,
         contraseña,
       };
-
       try {
         const response = await axios.post(
-          "http://localhost:8080/login",
+          baseUrl + "/api/login",
           Usuario
         );
         const { data } = response;

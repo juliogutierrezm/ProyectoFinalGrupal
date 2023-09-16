@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
+import { baseUrl } from "../config";
 
 const Register = () => {
   const [inputs, setInputs] = useState({
@@ -30,7 +31,7 @@ const Register = () => {
       setLoading(true);
       try {
         const response = await axios.post(
-          "http://localhost:8080/register",
+          baseUrl + "/api/register",
           Usuario
         );
         const { data } = response;
