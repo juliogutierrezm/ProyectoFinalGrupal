@@ -1,5 +1,13 @@
 # Dojo Music App
 
+## Project Summary
+
+- **Name**: Dojo Music App
+- **Description**: Empower emerging artists with a music platform using React, Redux, Tailwind CSS, Node.js, Express, MongoDB (Mongoose).
+- **Key Features**: Music uploads, artist discovery, Redux state management, Tailwind CSS UI.
+- **Challenges**: Redux setup, Tailwind CSS integration, file uploads, collaborative development, MongoDB scalability.
+- **Team**: Doyo Coding Bootcamp graduation group project.
+
 ![Static Badge](https://img.shields.io/badge/MERN%20BOOTCAMP-CODING%20DOJO-05A9E1)
 
 ###  Hello! We are Jonathan Burbano & Julio Gutiérrez 🚀
