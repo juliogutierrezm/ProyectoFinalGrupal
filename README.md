@@ -2,7 +2,6 @@
 
 ![Static Badge](https://img.shields.io/badge/MERN%20BOOTCAMP-CODING%20DOJO-05A9E1)
 
-
 ###  Hello! We are Jonathan Burbano & Julio Gutiérrez 🚀
 ### Full Stack Developers
 
