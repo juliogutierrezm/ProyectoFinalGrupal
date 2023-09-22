@@ -1,7 +1,7 @@
 # Julio Gutierrez Morales
 ## Full Stack Developer | MERN Stack Specialist
 
-![Static Badge](https://img.shields.io/badge/MERN%20FULLSTACK-CODING%20DOJO-05A9E1) 
+![Static Badge](https://img.shields.io/badge/MERN%20FULL%20STACK-CODING%20DOJO-05A9E1) 
 
 ![Static Badge](https://img.shields.io/badge/%20FULL%20STACK%20DIPLOMA%20-%20UNIVERSIDAD%20TECNOLOGICA-9A0057)
 
